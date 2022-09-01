@@ -3,3 +3,5 @@ Pandas Data Cleaning and Exploratory Data Analysis of Trending Youtube Video Sta
 
 Dataset is available here:
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+The analysis is performed in notebook1.
